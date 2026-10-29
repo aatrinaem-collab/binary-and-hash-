@@ -9,6 +9,7 @@ def groupAnagrams(strs):
 
 def main():
     print(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
+    print(groupAnagrams(["won", "now", "aaa", "ooo", "ooo"]))
 
 if __name__ == "__main__":
     main()
